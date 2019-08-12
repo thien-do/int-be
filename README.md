@@ -1,8 +1,10 @@
+## Overview
+
 This is a mock back end for [InterNations' Front End challenge](https://github.com/dvkndn/int-fe/blob/master/TASK.pdf). It uses [JSON Server](https://github.com/typicode/json-server) and deployed to https://int-be.herokuapp.com/.
 
 For the front end implementation, please see http://github.com/dvkndn/int-fe.
 
-**Models**
+## Models
 
 For the challenge, the mock back end serves 2 simple models:
 
@@ -20,7 +22,7 @@ interface User {
 }
 ```
 
-For detail structure and implementation, please see [db.js].
+For detailed structures and implementations, please see [db.js](db.js).
 
 To represent the concept that a user may belong to several groups, and a group may have several users, the back end also implemented a simple many-to-many model:
 
