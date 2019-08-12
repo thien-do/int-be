@@ -1,6 +1,6 @@
 ## Overview
 
-This is a mock back end for [InterNations' Front End challenge](https://github.com/dvkndn/int-fe/blob/master/TASK.pdf). It uses [JSON Server](https://github.com/typicode/json-server) and deployed to https://int-be.herokuapp.com/. To run it at your local:
+This is a mock back end for [InterNations' Front End challenge](https://github.com/dvkndn/int-fe/blob/master/TASK.pdf). It uses [JSON Server](https://github.com/typicode/json-server) and deployed to https://int-be.herokuapp.com/. To run it locally:
 
 ```bash
 npm start
